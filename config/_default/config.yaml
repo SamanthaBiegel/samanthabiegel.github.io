@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Samantha Biegel # Website name
-baseURL: 'https://samanthabiege.github.io/' # Website URL
+baseURL: 'https://samanthabiegel.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
